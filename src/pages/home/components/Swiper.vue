@@ -26,11 +26,11 @@ export default {
       swiperList: [
         {
           id: '0001',
-          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/80/29eaf59b380bef97acacba8a8f6efd2a.water.jpg_600x330_76f8cfee.jpg'
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/80/29eaf59b380bef97acacba8a8f6efd2a.water.jpg_640x276_ac627382.jpg'
         },
         {
           id: '0002',
-          imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/88/880775ea761f2c1390.water.jpg_600x330_1fc3551a.jpg'
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1507/d4/f8ac1f83c6911b40f31ee560e8ab5a1b.water.jpg_640x276_dd3734de.jpg'
         }
       ]
     }
@@ -43,7 +43,7 @@ export default {
   overflow: hidden;
   width: 100%;
   height: 0;
-  padding-bottom: 55%;
+  padding-bottom: 43%;
   background: #eee;
 }
 
