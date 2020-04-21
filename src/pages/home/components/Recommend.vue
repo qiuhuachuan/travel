@@ -81,9 +81,9 @@ export default {
 
 .recommend-title {
   margin-top: 0.2rem;
-  line-height: .8rem;
+  line-height: 0.8rem;
   background: #eee;
-  text-indent: .2rem
+  text-indent: 0.2rem
 }
 
 .item {
